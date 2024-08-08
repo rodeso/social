@@ -96,5 +96,6 @@ footer {
 @media (max-width: 768px) {
     body {
         font-size: 1.1em;
+        width: 85%;
     }
 }
